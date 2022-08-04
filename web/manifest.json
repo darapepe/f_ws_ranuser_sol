@@ -1,6 +1,6 @@
 {
-    "name": "f_web_service_random_user_template",
-    "short_name": "f_web_service_random_user_template",
+    "name": "f_ws_ranuser_sol",
+    "short_name": "f_ws_ranuser_sol",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

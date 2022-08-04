@@ -1,4 +1,4 @@
-package com.example.f_web_service_random_user_template
+package com.example.f_ws_ranuser_sol
 
 import io.flutter.embedding.android.FlutterActivity
 
